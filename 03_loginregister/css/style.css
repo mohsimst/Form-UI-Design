@@ -64,6 +64,9 @@ html, body {
 	color: #fffeff;
 	font-weight: 700;
 }
+.head .selected:hover{
+background-color: #a541f9;
+}
 
 .head .selected:after {
 	position: absolute;
